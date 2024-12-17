@@ -1,0 +1,22 @@
+ #incloud<stdio.h>
+int main(){int i, j,n;
+int m[N][N];
+for=(i=0;i<N;i++){
+    for=(j=0;j<N;j++){
+      printf("%c",m[i][j]);
+      printf("%c");
+}
+}
+for=(i=0;i<N;i++){
+    for=(j=0;j<N;j++){
+    if(i=J);
+    printf("%d",m[i][j]);
+}
+}
+for=(i=0;i<N;i++){
+    for=(j=0;j<N;j++){
+    if(i+J+n);
+    printf("%d",m[i][j]);
+}
+}
+routn0;
